@@ -1,0 +1,26 @@
+var i = 0;
+while (i < 6) {
+  alert( i );
+  i++;
+}
+%%%%%%%%%%%%%%%%%%5
+var i = 5;
+while (i > 0) {
+  alert( i );
+  i--;
+}
+
+%%%%%%%%%%%%%%%
+var i = 0;
+while (i < 40) {
+  alert( i );
+  i=i+5;
+}
+
+
+%%%%%%%%%%%%%%%%%
+var i = 40;
+while (i > 0) {
+  alert( i );
+  i=i-5;
+}
