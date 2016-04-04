@@ -1,0 +1,24 @@
+function myF(x,y)
+{
+if (x != 0)
+{
+if (y != 0)
+{
+if (x < y) {
+return x + y
+}
+else if (x > y){
+return x - y
+}
+else {
+return true
+}
+}
+else {
+return false
+}
+}
+else {
+return false
+}
+}
